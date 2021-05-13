@@ -1,2 +1,2 @@
-Se corrgie bug en aaaaa.
+Se corrgieAHORAFALLA<conflicto> bug en aaaaa.
 conflicto de fichero

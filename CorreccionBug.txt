@@ -1,1 +1,2 @@
-Se corrgie bug en Master.
+Se corrgie bug en aaaaa.
+conflicto de fichero
